@@ -44,3 +44,6 @@ wheels/
 /datasets
 /projects/*/datasets
 /models
+.venv_py37/
+__pycache__/
+*.pyc
